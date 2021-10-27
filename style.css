@@ -1,0 +1,87 @@
+.menu{
+    position: fixed;
+    background-color:tomato;
+    width: 100%;
+    margin-top: 0px;
+    top: 0;
+    z-index: 10;
+}
+.link{
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family:cursive;
+    font-size: 25px;
+    color:fuchsia;
+}
+.link:hover{
+    font-size: 30px;
+    text-decoration:overline;
+}
+.name{
+    font-family: fantasy;
+    font-size: 70px;
+    color:palevioletred;
+}
+.sort{
+    width: 40%;
+    height: 40%;
+}
+body{
+    margin: 0%;
+    text-align: center;
+}
+#home{
+    position: absolute;
+    color:deeppink;
+    bottom: 0;
+     display: table;
+    height: 100%;
+    width: 100%;
+    z-index: 9;
+    background:linear-gradient(#05f3f7 10%,#054af7 90%)
+}
+h1{
+    font-size: 38px;
+    color:lavenderblush;
+}
+#me{
+    color:orangered;
+     display: table;
+    height: 100%;
+    width: 100%;
+    background:linear-gradient(#fcf405 10%,#fc0905 90%)        
+}
+h2{
+    font-size: 38px;
+    color:yellow;
+}
+.id{
+   width: 40%;
+    height: 40%;
+    padding-top: 55%;
+}
+#book{
+    color:mediumseagreen;
+     display: table;
+    height: 100%;
+    width: 100%;
+    background:linear-gradient( #f705eb 10%,#7500fa 90%)        
+}
+.re{
+   width: 30%;
+    height: 30%;
+    padding-top: 5%;
+    margin: 5px;
+}
+h3{
+    font-size: 38px;
+    color:mediumblue;
+}
+#map{
+    background-color: linear-gradient(#e203ff 10%,#ff036c 90%)
+}
+h4{
+    font-size: 38px;
+    color: orchid;
+}
